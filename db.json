@@ -1,0 +1,48 @@
+{
+	"data": [{
+		"id": 1,
+		"name": "Fire Template 1",
+		"isDeleted": false,
+		"updateDate": "2022-04-06T11:00:33.5223914Z",
+		"attributeGroups": [{
+			"id": 1,
+			"externalId": "1",
+			"title": "Fire",
+			"sortIndex": 1,
+			"attributes": [{
+					"id": 900,
+					"source": "RDX",
+					"sourceId": "2",
+					"sortIndex": 1,
+					"type": "SingleSelect",
+					"key": "Filter 1",
+					"attributeName": "Translated name of filter 1",
+					"isDeleted": false,
+					"updateDate": "2022-04-06T11:00:33.5223914Z"
+				},
+				{
+					"id": 902,
+					"source": "RDX",
+					"sourceId": "2",
+					"sortIndex": 2,
+					"type": "SingleSelect",
+					"key": "Filter 2",
+					"attributeName": "Translated name of filter 2",
+					"isDeleted": false,
+					"updateDate": "2022-04-06T11:00:33.5223914Z"
+				},
+				{
+					"id": 903,
+					"source": "RDX",
+					"sourceId": "2",
+					"sortIndex": 3,
+					"type": "String",
+					"key": "Filter 3",
+					"attributeName": "Translated name of filter 3",
+					"isDeleted": false,
+					"updateDate": "2022-04-06T11:00:33.5223914Z"
+				}
+			]
+		}]
+	}]
+}
